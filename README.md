@@ -31,7 +31,7 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário insere: valor 1 e valor 2 e escolhe se quer somar, subtrair, dividir ou multiplicar.
 >  e o app calcula e exibe o resultado do calculo escolhido(soma, subtração, dividir ou multiplicação).
 
